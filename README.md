@@ -1,2 +1,2 @@
 # DASHBOARD-_SALES-OVERVIEW-POWER-BI-
-This project is an interactive Power BI dashboard that provides a complete sales overview with key performance indicators such as total sales, profit, and quantity sold. It includes customer analysis based on age, gender, and region, product insights highlighting best-selling items, and a geographical view of sales across different locations.
+This project is an interactive Power BI dashboard that provides a complete sales overview with key performance indicators such as total sales, profit, and quantity sold. It includes customer analysis based on age, gender, and region, product insights highlighting best-selling items, and a geographical view of sales across different locations.Download the file and view it.
